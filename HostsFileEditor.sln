@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HostsFileEditor", "HostsFileEditor.csproj", "{55F4283E-066F-44F5-ADCE-BF56BEA4632C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55F4283E-066F-44F5-ADCE-BF56BEA4632C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55F4283E-066F-44F5-ADCE-BF56BEA4632C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55F4283E-066F-44F5-ADCE-BF56BEA4632C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55F4283E-066F-44F5-ADCE-BF56BEA4632C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F47CC9F-012D-455A-9185-02458126D7ED}
+	EndGlobalSection
+EndGlobal
